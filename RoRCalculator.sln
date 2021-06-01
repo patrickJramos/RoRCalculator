@@ -8,7 +8,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoRCalculator", "RoRCalcula
 		{852DE90B-86E6-452E-9F0F-E49B0BAD2A4D} = {852DE90B-86E6-452E-9F0F-E49B0BAD2A4D}
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoR", "ClassLibrary1\RoR.csproj", "{852DE90B-86E6-452E-9F0F-E49B0BAD2A4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoR", "RoR\RoR.csproj", "{852DE90B-86E6-452E-9F0F-E49B0BAD2A4D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoRImplementation", "RoRImplementation\RoRImplementation.csproj", "{723EC8E3-BF54-4127-9D84-D45E1F5F8527}"
 	ProjectSection(ProjectDependencies) = postProject

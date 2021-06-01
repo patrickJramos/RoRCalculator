@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\RoR.csproj" />
+    <ProjectReference Include="..\RoR\RoR.csproj" />
   </ItemGroup>
 
 </Project>
